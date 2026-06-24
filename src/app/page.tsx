@@ -50,6 +50,16 @@ const products = [
     amazonUrl: "https://amzn.to/4vvaWZ9",
     badge: "TikTok Trend",
     image: "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 6,
+    title: "Masajeador Facial GLO24K LED",
+    description: "Dispositivo de belleza 3 en 1 con luz roja y vibración. Ideal para revitalización de piel y cuello.",
+    price: "39.99",
+    category: "Cuidado Personal",
+    amazonUrl: "https://amzn.to/4es38kJ",
+    badge: "Beauty Tech",
+    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=500&auto=format&fit=crop"
   }
 ];
 
