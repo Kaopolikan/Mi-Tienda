@@ -134,16 +134,12 @@ export default function Home() {
         <div className="grid md:grid-cols-3 gap-8">
           {products.map((product) => (
             <div key={product.id} className="group border rounded-2xl overflow-hidden hover:shadow-2xl transition-all duration-300 bg-white">
-              <div className="relative h-64 bg-slate-100">
+              <div className="relative h-64 bg-slate-200 flex items-center justify-center overflow-hidden">
                 <img 
                   src={product.image} 
                   alt={product.title}
-                  loading="lazy"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                  onError={(e) => {
-                    const target = e.target as HTMLImageElement;
-                    target.src = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=500&auto=format&fit=crop"; // Imagen de respaldo si falla
-                  }}
+                  style={{ minHeight: '256px', width: '100%', objectFit: 'cover' }}
+                  className="group-hover:scale-105 transition-transform duration-500"
                 />
                 <span className="absolute top-4 left-4 bg-orange-500 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
                   {product.badge}
