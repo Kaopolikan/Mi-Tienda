@@ -110,7 +110,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="bg-slate-900 text-white py-20 px-4 text-center">
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 bg-gradient-to-r from-orange-400 to-rose-400 bg-clip-text text-transparent">
-          Gadgets que Transforman tu Día
+          Gadgets 2026: Tu Tienda Inteligente
         </h1>
         <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-10">
           Analizamos miles de productos en Amazon para traerte solo lo que realmente vale la pena.
