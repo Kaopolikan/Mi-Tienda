@@ -138,8 +138,12 @@ export default function Home() {
                 <img 
                   src={product.image} 
                   alt={product.title}
-                  referrerPolicy="no-referrer"
+                  loading="lazy"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  onError={(e) => {
+                    const target = e.target as HTMLImageElement;
+                    target.src = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=500&auto=format&fit=crop"; // Imagen de respaldo si falla
+                  }}
                 />
                 <span className="absolute top-4 left-4 bg-orange-500 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
                   {product.badge}
