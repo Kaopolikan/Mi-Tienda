@@ -9,7 +9,7 @@ export default function Home() {
     { id: 7, title: "Power Plug Pro Energy Saver", price: "14.99", url: "https://amzn.to/4w1dsWH", img: "https://images.weserv.nl/?url=m.media-amazon.com/images/I/61Wv6Z-Z9DL.jpg" },
     { id: 8, title: "Cargador Solar BLAVOR 42k", price: "26.99", url: "https://amzn.to/4vsjXC5", img: "https://images.weserv.nl/?url=m.media-amazon.com/images/I/71UqC8-9mML.jpg" },
     { id: 9, title: "Impresora Portátil A4 M08F", price: "31.77", url: "https://amzn.to/4w5C40w", img: "https://sc04.alicdn.com/kf/Aa2700f34a33a4c169ff41eabd5d692440.jpg" },
-    { id: 10, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://images.weserv.nl/?url=m.media-amazon.com/images/I/71o+57989SL.jpg" }
+    { id: 10, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://sc04.alicdn.com/kf/Ab4d4ff97fedf4803a83bd887efb4744cN.jpg" }
   ];
 
   return (
