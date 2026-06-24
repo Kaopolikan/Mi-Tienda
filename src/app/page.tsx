@@ -3,93 +3,103 @@ import { ShoppingCart, Star, ArrowRight, Zap, CheckCircle } from 'lucide-react';
 const products = [
   {
     id: 1,
-    title: "Mini Impresora Térmica Portátil",
-    description: "Organiza tu vida sin gastar en tinta. Ideal para etiquetas, notas y fotos rápidas.",
-    price: "25.99",
+    title: "Phomemo Mini Impresora T02",
+    description: "Impresora térmica de bolsillo sin tinta. Perfecta para fotos, notas y organización con su app divertida.",
+    price: "29.99",
     category: "Productividad",
-    amazonUrl: "https://amzn.to/4vtIuqk", // Enlace de afiliado actualizado
+    amazonUrl: "https://amzn.to/4vtIuqk",
     badge: "Más Vendido",
-    image: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/61i5C5n2XkL._AC_SL1500_.jpg"
   },
   {
     id: 2,
-    title: "Estación de Carga 5 en 1",
-    description: "Carga tu iPhone, Apple Watch y AirPods simultáneamente. Diseño minimalista y plegable.",
+    title: "Cargador Inalámbrico 3 en 1",
+    description: "Carga rápida para iPhone, Apple Watch y AirPods al mismo tiempo. Olvida el desorden de cables.",
     price: "34.50",
     category: "Tecnología",
-    amazonUrl: "https://amzn.to/3QBYJCI", // Enlace de afiliado actualizado
+    amazonUrl: "https://amzn.to/3QBYJCI",
     badge: "Tendencia",
-    image: "https://images.unsplash.com/photo-1616348436168-de43ad0db179?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/61MvUa0f4OL._AC_SL1500_.jpg"
   },
   {
     id: 3,
-    title: "Monitor Portátil 15.6\" Ultra Slim",
-    description: "Expande tu espacio de trabajo donde sea. Conexión USB-C y resolución Full HD.",
-    price: "129.00",
+    title: "Monitor Portátil ARZOPA 15.6\"",
+    description: "Pantalla Full HD 1080P ultra delgada. Conexión USB-C para trabajar con doble pantalla en cualquier lugar.",
+    price: "129.99",
     category: "Nómada Digital",
-    amazonUrl: "https://amzn.to/3SnMOcd", // Enlace de afiliado actualizado
+    amazonUrl: "https://amzn.to/3SnMOcd",
     badge: "Recomendado",
-    image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/71YvS-3Xb-L._AC_SL1500_.jpg"
   },
   {
     id: 4,
-    title: "Enchufe Inteligente Exterior Treatlife",
-    description: "Controla y atenúa las luces de tu patio desde cualquier lugar. Resistente a la intemperie (IP44).",
+    title: "Atenuador Exterior Treatlife",
+    description: "Enchufe inteligente para patio resistente al agua. Controla la intensidad de tus luces desde el móvil.",
     price: "22.99",
     category: "Smart Home",
     amazonUrl: "https://amzn.to/4vrfgs5",
     badge: "Viral",
-    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/61pD7U8uTGL._AC_SL1500_.jpg"
   },
   {
     id: 5,
-    title: "Picador Eléctrico de Ajo y Verduras",
-    description: "Picadora inalámbrica USB de 350ml con 6 cuchillas. Ahorra tiempo en la cocina con un solo botón.",
+    title: "Picador Eléctrico de Ajo USB",
+    description: "Mini procesador de alimentos inalámbrico. Pica ajo, cebolla y verduras en segundos sin olores.",
     price: "14.99",
     category: "Cocina",
     amazonUrl: "https://amzn.to/4vvaWZ9",
     badge: "TikTok Trend",
-    image: "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/61YhS0Wwz0L._AC_SL1500_.jpg"
   },
   {
     id: 6,
-    title: "Masajeador Facial GLO24K LED",
-    description: "Dispositivo de belleza 3 en 1 con luz roja y vibración. Ideal para revitalización de piel y cuello.",
+    title: "Masajeador GLO24K LED",
+    description: "Terapia de luz roja para cara y cuello. Reafirma la piel y reduce arrugas con tecnología LED.",
     price: "39.99",
     category: "Cuidado Personal",
     amazonUrl: "https://amzn.to/4es38kJ",
     badge: "Beauty Tech",
-    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/51r-xG9X7vL._AC_SL1500_.jpg"
   },
   {
     id: 7,
     title: "Power Plug Pro Energy Saver",
-    description: "Optimiza el flujo eléctrico y reduce picos de tensión en tu hogar. Fácil instalación plug-and-play.",
+    description: "Dispositivo inteligente para optimizar el consumo eléctrico y proteger tus electrodomésticos.",
     price: "14.99",
     category: "Hogar Eficiente",
     amazonUrl: "https://amzn.to/4w1dsWH",
-    badge: "TikTok Viral",
-    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=500&auto=format&fit=crop"
+    badge: "Ahorro",
+    image: "https://m.media-amazon.com/images/I/61Wv6Z-Z9DL._AC_SL1500_.jpg"
   },
   {
     id: 8,
-    title: "Cargador Solar Portátil 42800mAh",
-    description: "Energía infinita para tus viajes. Resistente al agua, con linterna LED y carga rápida USB.",
+    title: "Cargador Solar BLAVOR 42.8k",
+    description: "Batería externa solar masiva para exteriores. Resistente al agua, con brújula y linterna.",
     price: "26.99",
     category: "Energía Solar",
     amazonUrl: "https://amzn.to/4vsjXC5",
     badge: "Best Seller",
-    image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?q=80&w=500&auto=format&fit=crop"
+    image: "https://m.media-amazon.com/images/I/71UqC8-9mML._AC_SL1500_.jpg"
   },
   {
     id: 9,
-    title: "Impresora Térmica Portátil A4",
-    description: "Imprime documentos en cualquier lugar sin necesidad de tinta. Compatible con papel A4 y Carta.",
+    title: "Impresora Portátil A4 M08F",
+    description: "Impresión de documentos sin tinta desde el móvil o laptop. Ideal para contratos y viajes.",
     price: "31.77",
     category: "Oficina",
     amazonUrl: "https://amzn.to/4w5C40w",
-    badge: "Viajes",
-    image: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=500&auto=format&fit=crop"
+    badge: "Profesional",
+    image: "https://m.media-amazon.com/images/I/61-9pC8p0DL._AC_SL1500_.jpg"
+  },
+  {
+    id: 10,
+    title: "EcoFlow Delta 3 Ultra",
+    description: "Estación de energía de gran capacidad (3600W). Respaldo crítico para hogar y camping extremo.",
+    price: "2,599.00",
+    category: "Energía",
+    amazonUrl: "https://amzn.to/3SqBCvo",
+    badge: "Premium",
+    image: "https://m.media-amazon.com/images/I/71o+57989SL._AC_SL1500_.jpg"
   }
 ];
 
