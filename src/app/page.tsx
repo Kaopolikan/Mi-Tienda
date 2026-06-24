@@ -80,6 +80,16 @@ const products = [
     amazonUrl: "https://amzn.to/4vsjXC5",
     badge: "Best Seller",
     image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 9,
+    title: "Impresora Térmica Portátil A4",
+    description: "Imprime documentos en cualquier lugar sin necesidad de tinta. Compatible con papel A4 y Carta.",
+    price: "31.77",
+    category: "Oficina",
+    amazonUrl: "https://amzn.to/4w5C40w",
+    badge: "Viajes",
+    image: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=500&auto=format&fit=crop"
   }
 ];
 
