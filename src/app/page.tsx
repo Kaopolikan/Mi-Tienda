@@ -108,12 +108,12 @@ export default function Home() {
   return (
     <main className="min-h-screen">
       {/* Hero Section */}
-      <header className="bg-slate-900 text-white py-20 px-4 text-center">
-        <h1 className="text-4xl md:text-6xl font-extrabold mb-6 bg-gradient-to-r from-orange-400 to-rose-400 bg-clip-text text-transparent">
-          Gadgets 2026: Tu Tienda Inteligente
+      <header className="bg-orange-600 text-white py-20 px-4 text-center">
+        <h1 className="text-4xl md:text-6xl font-extrabold mb-6">
+          JUAN GADGETS: Tu Tienda de Confianza
         </h1>
-        <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-10">
-          Analizamos miles de productos en Amazon para traerte solo lo que realmente vale la pena.
+        <p className="text-xl text-orange-50 max-w-2xl mx-auto mb-10">
+          Versión 3.0: 10 Productos con Imágenes Garantizadas
         </p>
         <div className="flex justify-center gap-4">
           <div className="flex items-center gap-2 text-sm text-slate-400">
