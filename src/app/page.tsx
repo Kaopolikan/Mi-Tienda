@@ -4,7 +4,8 @@ export default function Home() {
     { id: 2, title: "Monitor Portátil InnoView 15.6\"", price: "49.99", url: "https://www.amazon.com/dp/B095GG31KX", img: "https://sc04.alicdn.com/kf/A6e4f6ecf24f04dbdae72edd458eb9f46g.jpg" },
     { id: 3, title: "Lámpara LED wowatt Recargable", price: "34.19", url: "https://amzn.to/4fXuCjo", img: "https://sc04.alicdn.com/kf/A3654ed6600624d1391a94e7d5a62f5824.jpg" },
     { id: 4, title: "Ventilador de Camping FRIZCOL 24k", price: "28.47", url: "https://amzn.to/3R2YeBL", img: "https://sc04.alicdn.com/kf/Ae0c529171f8742d18cc093f4ad3c030ff.jpg" },
-    { id: 5, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://sc04.alicdn.com/kf/Ab4d4ff97fedf4803a83bd887efb4744cN.jpg" }
+    { id: 5, title: "Aire Acondicionado Portátil 8000 BTU", price: "129.00", url: "https://amzn.to/4eHmfGv", img: "https://sc04.alicdn.com/kf/A707e07a7da5640d6955db9230ac20e35a.jpg" },
+    { id: 6, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://sc04.alicdn.com/kf/Ab4d4ff97fedf4803a83bd887efb4744cN.jpg" }
   ];
 
   return (
