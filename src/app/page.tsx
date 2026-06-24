@@ -83,6 +83,7 @@ const products = [
   }
 ];
 
+// Actualización de catálogo: 8 productos verificados
 export default function Home() {
   return (
     <main className="min-h-screen">
