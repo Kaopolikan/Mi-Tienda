@@ -60,6 +60,26 @@ const products = [
     amazonUrl: "https://amzn.to/4es38kJ",
     badge: "Beauty Tech",
     image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 7,
+    title: "Power Plug Pro Energy Saver",
+    description: "Optimiza el flujo eléctrico y reduce picos de tensión en tu hogar. Fácil instalación plug-and-play.",
+    price: "14.99",
+    category: "Hogar Eficiente",
+    amazonUrl: "https://amzn.to/4w1dsWH",
+    badge: "TikTok Viral",
+    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 8,
+    title: "Cargador Solar Portátil 42800mAh",
+    description: "Energía infinita para tus viajes. Resistente al agua, con linterna LED y carga rápida USB.",
+    price: "26.99",
+    category: "Energía Solar",
+    amazonUrl: "https://amzn.to/4vsjXC5",
+    badge: "Best Seller",
+    image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?q=80&w=500&auto=format&fit=crop"
   }
 ];
 
