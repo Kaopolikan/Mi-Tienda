@@ -7,7 +7,7 @@ const products = [
     description: "Organiza tu vida sin gastar en tinta. Ideal para etiquetas, notas y fotos rápidas.",
     price: "25.99",
     category: "Productividad",
-    amazonUrl: "#", // Aquí pondrás tu link de afiliado
+    amazonUrl: "https://amzn.to/4vtIuqk", // Enlace de afiliado actualizado
     badge: "Más Vendido",
     image: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=500&auto=format&fit=crop"
   },
@@ -17,7 +17,7 @@ const products = [
     description: "Carga tu iPhone, Apple Watch y AirPods simultáneamente. Diseño minimalista y plegable.",
     price: "34.50",
     category: "Tecnología",
-    amazonUrl: "#",
+    amazonUrl: "https://amzn.to/3QBYJCI", // Enlace de afiliado actualizado
     badge: "Tendencia",
     image: "https://images.unsplash.com/photo-1616348436168-de43ad0db179?q=80&w=500&auto=format&fit=crop"
   },
@@ -27,7 +27,7 @@ const products = [
     description: "Expande tu espacio de trabajo donde sea. Conexión USB-C y resolución Full HD.",
     price: "129.00",
     category: "Nómada Digital",
-    amazonUrl: "#",
+    amazonUrl: "https://amzn.to/3SnMOcd", // Enlace de afiliado actualizado
     badge: "Recomendado",
     image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=500&auto=format&fit=crop"
   }
