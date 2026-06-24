@@ -40,6 +40,16 @@ const products = [
     amazonUrl: "https://amzn.to/4vrfgs5",
     badge: "Viral",
     image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 5,
+    title: "Picador Eléctrico de Ajo y Verduras",
+    description: "Picadora inalámbrica USB de 350ml con 6 cuchillas. Ahorra tiempo en la cocina con un solo botón.",
+    price: "14.99",
+    category: "Cocina",
+    amazonUrl: "https://amzn.to/4vvaWZ9",
+    badge: "TikTok Trend",
+    image: "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?q=80&w=500&auto=format&fit=crop"
   }
 ];
 
