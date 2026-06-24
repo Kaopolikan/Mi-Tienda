@@ -9,7 +9,7 @@ const products = [
     category: "Productividad",
     amazonUrl: "https://amzn.to/4vtIuqk",
     badge: "Más Vendido",
-    image: "https://m.media-amazon.com/images/I/61i5C5n2XkL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1583500171118-2e06173a985d?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const products = [
     category: "Tecnología",
     amazonUrl: "https://amzn.to/3QBYJCI",
     badge: "Tendencia",
-    image: "https://m.media-amazon.com/images/I/61MvUa0f4OL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1616348436168-de43ad0db179?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const products = [
     category: "Nómada Digital",
     amazonUrl: "https://amzn.to/3SnMOcd",
     badge: "Recomendado",
-    image: "https://m.media-amazon.com/images/I/71YvS-3Xb-L._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const products = [
     category: "Smart Home",
     amazonUrl: "https://amzn.to/4vrfgs5",
     badge: "Viral",
-    image: "https://m.media-amazon.com/images/I/61pD7U8uTGL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ const products = [
     category: "Cocina",
     amazonUrl: "https://amzn.to/4vvaWZ9",
     badge: "TikTok Trend",
-    image: "https://m.media-amazon.com/images/I/61YhS0Wwz0L._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 6,
@@ -59,7 +59,7 @@ const products = [
     category: "Cuidado Personal",
     amazonUrl: "https://amzn.to/4es38kJ",
     badge: "Beauty Tech",
-    image: "https://m.media-amazon.com/images/I/51r-xG9X7vL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 7,
@@ -69,7 +69,7 @@ const products = [
     category: "Hogar Eficiente",
     amazonUrl: "https://amzn.to/4w1dsWH",
     badge: "Ahorro",
-    image: "https://m.media-amazon.com/images/I/61Wv6Z-Z9DL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 8,
@@ -79,7 +79,7 @@ const products = [
     category: "Energía Solar",
     amazonUrl: "https://amzn.to/4vsjXC5",
     badge: "Best Seller",
-    image: "https://m.media-amazon.com/images/I/71UqC8-9mML._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 9,
@@ -89,7 +89,7 @@ const products = [
     category: "Oficina",
     amazonUrl: "https://amzn.to/4w5C40w",
     badge: "Profesional",
-    image: "https://m.media-amazon.com/images/I/61-9pC8p0DL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=800&auto=format&fit=crop"
   },
   {
     id: 10,
@@ -99,7 +99,7 @@ const products = [
     category: "Energía",
     amazonUrl: "https://amzn.to/3SqBCvo",
     badge: "Premium",
-    image: "https://m.media-amazon.com/images/I/71o+57989SL._AC_SL1500_.jpg"
+    image: "https://images.unsplash.com/photo-1621905235277-f2742e6b7f9a?q=80&w=800&auto=format&fit=crop"
   }
 ];
 
