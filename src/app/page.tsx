@@ -133,43 +133,39 @@ export default function Home() {
         
         <div className="grid md:grid-cols-3 gap-8">
           {products.map((product) => (
-            <div key={product.id} className="group border rounded-2xl overflow-hidden hover:shadow-2xl transition-all duration-300 bg-white">
-              <div className="relative h-64 bg-slate-200 flex items-center justify-center overflow-hidden">
+            <div key={product.id} style={{ border: '1px solid #e2e8f0', borderRadius: '16px', overflow: 'hidden', backgroundColor: 'white' }}>
+              <div style={{ height: '250px', width: '100%', position: 'relative', backgroundColor: '#f1f5f9' }}>
                 <img 
                   src={product.image} 
                   alt={product.title}
-                  style={{ minHeight: '256px', width: '100%', objectFit: 'cover' }}
-                  className="group-hover:scale-105 transition-transform duration-500"
+                  style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
-                <span className="absolute top-4 left-4 bg-orange-500 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
+                <span style={{ position: 'absolute', top: '16px', left: '16px', backgroundColor: '#ea580c', color: 'white', fontSize: '12px', fontWeight: 'bold', padding: '4px 12px', borderRadius: '99px' }}>
                   {product.badge}
                 </span>
               </div>
               
-              <div className="p-6">
-                <div className="flex justify-between items-start mb-2">
-                  <span className="text-xs font-semibold text-orange-600 uppercase tracking-widest">{product.category}</span>
-                  <div className="flex items-center text-yellow-400">
-                    <Star className="w-4 h-4 fill-current" />
-                    <span className="text-slate-600 text-sm ml-1">4.8</span>
-                  </div>
+              <div style={{ padding: '24px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
+                  <span style={{ fontSize: '12px', fontWeight: 'bold', color: '#ea580c', textTransform: 'uppercase' }}>{product.category}</span>
+                  <div style={{ color: '#facc15', fontSize: '14px' }}>★ 4.8</div>
                 </div>
                 
-                <h3 className="text-xl font-bold text-slate-900 mb-3">{product.title}</h3>
-                <p className="text-slate-600 mb-6 text-sm leading-relaxed">
+                <h3 style={{ fontSize: '20px', fontWeight: 'bold', color: '#0f172a', marginBottom: '12px' }}>{product.title}</h3>
+                <p style={{ color: '#475569', fontSize: '14px', marginBottom: '24px', lineHeight: '1.5' }}>
                   {product.description}
                 </p>
                 
-                <div className="flex items-center justify-between border-t pt-6">
+                <div style={{ borderTop: '1px solid #f1f5f9', paddingTop: '24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                   <div>
-                    <span className="text-sm text-slate-400 block">Precio aprox.</span>
-                    <span className="text-2xl font-bold text-slate-900">€{product.price}</span>
+                    <span style={{ fontSize: '12px', color: '#94a3b8', display: 'block' }}>Precio aprox.</span>
+                    <span style={{ fontSize: '24px', fontWeight: 'bold', color: '#0f172a' }}>${product.price}</span>
                   </div>
                   <a 
                     href={product.amazonUrl}
-                    className="bg-slate-900 text-white p-4 rounded-xl hover:bg-orange-600 transition-colors flex items-center gap-2"
+                    style={{ backgroundColor: '#0f172a', color: 'white', padding: '12px 20px', borderRadius: '12px', textDecoration: 'none', fontWeight: 'bold' }}
                   >
-                    Ver en Amazon <ArrowRight className="w-4 h-4" />
+                    Ver en Amazon
                   </a>
                 </div>
               </div>
