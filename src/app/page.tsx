@@ -2,7 +2,8 @@ export default function Home() {
   const products = [
     { id: 1, title: "Impresora Portátil A4 M08F", price: "45.98", url: "https://amzn.to/4w5C40w", img: "https://sc04.alicdn.com/kf/Aa2700f34a33a4c169ff41eabd5d692440.jpg" },
     { id: 2, title: "Monitor Portátil InnoView 15.6\"", price: "49.99", url: "https://www.amazon.com/dp/B095GG31KX", img: "https://sc04.alicdn.com/kf/A6e4f6ecf24f04dbdae72edd458eb9f46g.jpg" },
-    { id: 3, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://sc04.alicdn.com/kf/Ab4d4ff97fedf4803a83bd887efb4744cN.jpg" }
+    { id: 3, title: "Lámpara LED wowatt Recargable", price: "34.19", url: "https://amzn.to/4fXuCjo", img: "https://sc04.alicdn.com/kf/A3654ed6600624d1391a94e7d5a62f5824.jpg" },
+    { id: 4, title: "EcoFlow Delta 3 Ultra", price: "2599.00", url: "https://amzn.to/3SqBCvo", img: "https://sc04.alicdn.com/kf/Ab4d4ff97fedf4803a83bd887efb4744cN.jpg" }
   ];
 
   return (
