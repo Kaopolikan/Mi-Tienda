@@ -30,6 +30,16 @@ const products = [
     amazonUrl: "https://amzn.to/3SnMOcd", // Enlace de afiliado actualizado
     badge: "Recomendado",
     image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    id: 4,
+    title: "Enchufe Inteligente Exterior Treatlife",
+    description: "Controla y atenúa las luces de tu patio desde cualquier lugar. Resistente a la intemperie (IP44).",
+    price: "22.99",
+    category: "Smart Home",
+    amazonUrl: "https://amzn.to/4vrfgs5",
+    badge: "Viral",
+    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=500&auto=format&fit=crop"
   }
 ];
 
