@@ -138,14 +138,6 @@ export default function Home() {
     },
     { 
       id: 18, 
-      title: "E-Bike Plegable Fat Tire", 
-      price: "269.00", 
-      url: "https://www.amazon.com/dp/B0FVLH9M45", 
-      img: "https://sc04.alicdn.com/kf/Ab22620ec3ffc4d5dbe10df1a4c36374fG.jpg",
-      details: "Bicicleta eléctrica plegable de 20 pulgadas con neumáticos anchos (Fat Tire). Motor potente de 720W (pico) y batería extraíble. Ideal para ciudad y terrenos mixtos."
-    },
-    { 
-      id: 19, 
       title: "E-Bike Montaña Jasion EB5", 
       price: "199.00", 
       url: "https://www.amazon.com/dp/B0H7WMK9VK", 
@@ -153,7 +145,7 @@ export default function Home() {
       details: "La bicicleta eléctrica más económica y vendida de Amazon. Diseño de montaña ligero, motor de 1000W (pico) y hasta 40 millas de autonomía. ¡Oferta limitada!"
     },
     { 
-      id: 20, 
+      id: 19, 
       title: "Ancheer Folding E-Bike 14\"", 
       price: "259.99", 
       url: "https://www.amazon.com/dp/B0G5YZB77Q", 
@@ -161,7 +153,7 @@ export default function Home() {
       details: "Compacta, ligera y plegable. Motor de 350W y velocidad de hasta 20MPH. Perfecta para trayectos urbanos y fácil de guardar en cualquier rincón o maletero."
     },
     { 
-      id: 21, 
+      id: 20, 
       title: "E-Bike Commuter 1200W Pro", 
       price: "139.99", 
       url: "https://www.amazon.com/dp/B0H1CH2CTS", 
