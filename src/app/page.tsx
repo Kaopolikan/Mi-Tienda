@@ -157,7 +157,7 @@ export default function Home() {
       title: "Ancheer Folding E-Bike 14\"", 
       price: "259.99", 
       url: "https://www.amazon.com/dp/B0G5YZB77Q", 
-      img: "https://s.alicdn.com/@sc04/kf/H314113eb51ff48cea30bd9c69cc8c64cB.jpg",
+      img: "https://sc04.alicdn.com/kf/Aff12d26901ef43429472ddc5db1651a4h.jpg",
       details: "Compacta, ligera y plegable. Motor de 350W y velocidad de hasta 20MPH. Perfecta para trayectos urbanos y fácil de guardar en cualquier rincón o maletero."
     }
   ];
