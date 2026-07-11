@@ -51,9 +51,9 @@ export default function Home() {
     { 
       id: 7, 
       title: "Picadora de Ajo Eléctrica Inalámbrica", 
-      price: "14.99", 
+      price: "9.99", 
       url: "https://amzn.to/4vvaWZ9", 
-      img: "https://m.media-amazon.com/images/I/51NiObDHKzL._AC_SL1500_.jpg",
+      img: "https://sc04.alicdn.com/kf/Ab53717efe6644f2e849cdf5707277874I.jpg",
       details: "Pica ajo, jengibre y verduras en segundos con solo presionar un botón. Recargable por USB y portátil, ideal para mantener tus manos libres de olores."
     }
   ];
