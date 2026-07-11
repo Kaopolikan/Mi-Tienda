@@ -109,7 +109,7 @@ export default function Home() {
       title: "Limpiador de Vapor Kiato", 
       price: "39.99", 
       url: "https://www.amazon.com/dp/B0G1T854H1", 
-      img: "https://m.media-amazon.com/images/I/71Y8lFf-53L._AC_SL1500_.jpg",
+      img: "https://s.alicdn.com/@sc04/kf/H03d4cf7c7a7040ccb714c14d7655ad8eY.jpg",
       details: "Limpiador a vapor manual 10 en 1. Potente presión constante para desinfectar y limpiar cocina, sofás y tapicería sin químicos. El favorito del ASMR de limpieza."
     },
     { 
@@ -117,7 +117,7 @@ export default function Home() {
       title: "Lámpara Champiñón Vintage", 
       price: "32.99", 
       url: "https://www.amazon.com/dp/B0FHJPHHFM", 
-      img: "https://m.media-amazon.com/images/I/71pE7Sj8GfL._AC_SL1500_.jpg",
+      img: "https://s.alicdn.com/@sc04/kf/Hb28fedcab0064319ba14f3365a937fb56.jpg",
       details: "Lámpara de cristal naranja con diseño retro mid-century. Crea un ambiente acogedor y estético perfecto para tu habitación o escritorio. Tendencia total en TikTok."
     },
     { 
@@ -125,7 +125,7 @@ export default function Home() {
       title: "Proyector Galaxia Rossetta", 
       price: "49.99", 
       url: "https://www.amazon.com/dp/B0B3JPS39B", 
-      img: "https://m.media-amazon.com/images/I/71Yv8S1M-KL._AC_SL1500_.jpg",
+      img: "https://s.alicdn.com/@sc04/kf/H56bcf35fa2d8472e8bdd4dfd351fcfa3F.jpg",
       details: "Proyector de estrellas 4 en 1 con altavoz Bluetooth y máquina de ruido blanco. Transforma cualquier espacio en una galaxia relajante con efectos de aurora."
     },
     { 
@@ -133,7 +133,7 @@ export default function Home() {
       title: "Organizadores de Nevera Hoojo", 
       price: "19.99", 
       url: "https://www.amazon.com/dp/B08GRLG9X7", 
-      img: "https://m.media-amazon.com/images/I/81xU-m-pS6L._AC_SL1500_.jpg",
+      img: "https://s.alicdn.com/@sc04/kf/Hdc3b104b6f8341aeb5de513aac27e367x.jpg",
       details: "Set de 8 contenedores transparentes y apilables. El secreto detrás de los videos virales de organización y 'restock'. Mantén tu comida fresca y ordenada."
     },
     { 
@@ -141,7 +141,7 @@ export default function Home() {
       title: "Ventilador de Cuello JISULIFE", 
       price: "31.99", 
       url: "https://www.amazon.com/dp/B08911JGGW", 
-      img: "https://m.media-amazon.com/images/I/6166t6tM8iL._AC_SL1500_.jpg",
+      img: "https://s.alicdn.com/@sc04/kf/H93806108fb134ab68a116efd4caa915d3.jpg",
       details: "Ventilador portátil manos libres sin aspas. Batería de 4000mAh para hasta 16 horas de uso. Diseño ligero y silencioso, ideal para viajes y actividades al aire libre."
     }
   ];
