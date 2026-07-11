@@ -74,14 +74,6 @@ export default function Home() {
     },
     { 
       id: 10, 
-      title: "EcoFlow DELTA Pro 3", 
-      price: "2599.00", 
-      url: "https://www.amazon.com/dp/B0D14FMFZD", 
-      img: "https://s.alicdn.com/@sc04/kf/H51a6949295174ed9909357eb4e12a580p.png",
-      details: "Estación de energía líder en el mercado. Batería LFP de 4096Wh ampliable hasta 48kWh. El respaldo definitivo para tu hogar ante cualquier emergencia."
-    },
-    { 
-      id: 11, 
       title: "Bombillas LED Emergencia Brightown", 
       price: "29.99", 
       url: "https://www.amazon.com/dp/B0FK9SSYDF", 
@@ -89,7 +81,7 @@ export default function Home() {
       details: "Pack de 4 bombillas inteligentes. Se recargan con uso normal y se encienden automáticamente cuando se corta la luz. ¡No vuelvas a quedarte a oscuras!"
     },
     { 
-      id: 12, 
+      id: 11, 
       title: "Generador Solar GRECELL 2400W", 
       price: "799.99", 
       url: "https://www.amazon.com/dp/B0CD7WN2WL", 
@@ -97,7 +89,7 @@ export default function Home() {
       details: "Potencia masiva de 2400W y batería LiFePO4 de 1843Wh. Soporta 12 dispositivos simultáneamente. Carga rápida en solo 2 horas para máxima autonomía."
     },
     { 
-      id: 13, 
+      id: 12, 
       title: "Jackery Explorer 500", 
       price: "499.00", 
       url: "https://www.amazon.com/dp/B07SM5HBK1", 
@@ -105,7 +97,7 @@ export default function Home() {
       details: "La marca más confiable en estaciones portátiles. Compacta, ligera y perfecta para camping o respaldo básico de emergencia. Calidad garantizada."
     },
     { 
-      id: 14, 
+      id: 13, 
       title: "Limpiador de Vapor Kiato", 
       price: "39.99", 
       url: "https://www.amazon.com/dp/B0G1T854H1", 
@@ -113,7 +105,7 @@ export default function Home() {
       details: "Limpiador a vapor manual 10 en 1. Potente presión constante para desinfectar y limpiar cocina, sofás y tapicería sin químicos. El favorito del ASMR de limpieza."
     },
     { 
-      id: 15, 
+      id: 14, 
       title: "Lámpara Champiñón Vintage", 
       price: "32.99", 
       url: "https://www.amazon.com/dp/B0FHJPHHFM", 
@@ -121,7 +113,7 @@ export default function Home() {
       details: "Lámpara de cristal naranja con diseño retro mid-century. Crea un ambiente acogedor y estético perfecto para tu habitación o escritorio. Tendencia total en TikTok."
     },
     { 
-      id: 16, 
+      id: 15, 
       title: "Proyector Galaxia Rossetta", 
       price: "49.99", 
       url: "https://www.amazon.com/dp/B0B3JPS39B", 
@@ -129,7 +121,7 @@ export default function Home() {
       details: "Proyector de estrellas 4 en 1 con altavoz Bluetooth y máquina de ruido blanco. Transforma cualquier espacio en una galaxia relajante con efectos de aurora."
     },
     { 
-      id: 17, 
+      id: 16, 
       title: "Organizadores de Nevera Hoojo", 
       price: "19.99", 
       url: "https://www.amazon.com/dp/B08GRLG9X7", 
@@ -137,7 +129,7 @@ export default function Home() {
       details: "Set de 8 contenedores transparentes y apilables. El secreto detrás de los videos virales de organización y 'restock'. Mantén tu comida fresca y ordenada."
     },
     { 
-      id: 18, 
+      id: 17, 
       title: "Ventilador de Cuello JISULIFE", 
       price: "31.99", 
       url: "https://www.amazon.com/dp/B08911JGGW", 
