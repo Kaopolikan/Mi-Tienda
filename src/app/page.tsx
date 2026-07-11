@@ -99,9 +99,9 @@ export default function Home() {
     { 
       id: 13, 
       title: "Jackery Explorer 500", 
-      price: "449.00", 
+      price: "499.00", 
       url: "https://www.amazon.com/dp/B07SM5HBK1", 
-      img: "https://sc04.alicdn.com/kf/A7fb3cff60aab49c68efad03ea967e42aS.jpg",
+      img: "https://sc04.alicdn.com/kf/Ab3c23dd9ac6c404883472ee98d9f7878M.jpg",
       details: "La marca más confiable en estaciones portátiles. Compacta, ligera y perfecta para camping o respaldo básico de emergencia. Calidad garantizada."
     },
     { 
