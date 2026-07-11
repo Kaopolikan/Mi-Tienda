@@ -141,7 +141,7 @@ export default function Home() {
       title: "E-Bike Plegable Fat Tire", 
       price: "269.00", 
       url: "https://www.amazon.com/dp/B0FVLH9M45", 
-      img: "https://s.alicdn.com/@sc04/kf/H04245cb2577140d69aafc73b61acb3a61.jpg",
+      img: "https://sc04.alicdn.com/kf/Ab22620ec3ffc4d5dbe10df1a4c36374fG.jpg",
       details: "Bicicleta eléctrica plegable de 20 pulgadas con neumáticos anchos (Fat Tire). Motor potente de 720W (pico) y batería extraíble. Ideal para ciudad y terrenos mixtos."
     },
     { 
