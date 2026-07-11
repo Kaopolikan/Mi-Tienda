@@ -99,8 +99,10 @@ export default function Home() {
       </div>
       
       <footer style={{ textAlign: 'center', color: '#64748b', fontSize: '14px', marginTop: '40px' }}>
-        © 2026 Juan Gadgets | Versión de Emergencia 4.0 - Estilos Forzados
+        © 2026 Kaopolikan VIP | Selección Maestra de Ofertas
       </footer>
     </div>
   );
+}
+;
 }
