@@ -149,7 +149,7 @@ export default function Home() {
       title: "E-Bike Montaña Jasion EB5", 
       price: "199.00", 
       url: "https://www.amazon.com/dp/B0H7WMK9VK", 
-      img: "https://s.alicdn.com/@sc04/kf/H1af667cf38474c03b82d20e711106addh.jpg",
+      img: "https://sc04.alicdn.com/kf/Aad3476edcb4a49ec9fec57966e2395a01.jpg",
       details: "La bicicleta eléctrica más económica y vendida de Amazon. Diseño de montaña ligero, motor de 1000W (pico) y hasta 40 millas de autonomía. ¡Oferta limitada!"
     },
     { 
