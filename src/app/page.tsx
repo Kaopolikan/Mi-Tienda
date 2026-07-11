@@ -69,8 +69,15 @@ export default function Home() {
   return (
     <div style={{ fontFamily: 'sans-serif', backgroundColor: '#fffbeb', minHeight: '100vh', paddingBottom: '50px' }}>
       <header style={{ backgroundColor: '#1e293b', color: '#fbbf24', padding: '60px 20px', textAlign: 'center', borderBottom: '8px solid #fbbf24' }}>
-        <h1 style={{ fontSize: '48px', margin: '0', fontWeight: '900' }}>TIENDA VIP: JUAN GADGETS</h1>
-        <p style={{ fontSize: '20px', marginTop: '10px', color: 'white' }}>--- CATÁLOGO EXCLUSIVO SELECCIONADO ---</p>
+        <div style={{ marginBottom: '20px' }}>
+          <img 
+            src="https://sc04.alicdn.com/kf/A1322de4e062d4297b20ff22e7a4741d89.jpg" 
+            alt="Juan - Fundador" 
+            style={{ width: '120px', height: '120px', borderRadius: '50%', border: '4px solid #fbbf24', objectFit: 'cover', margin: '0 auto' }}
+          />
+        </div>
+        <h1 style={{ fontSize: '48px', margin: '0', fontWeight: '900' }}>KAOPOLIKAN VIP</h1>
+        <p style={{ fontSize: '20px', marginTop: '10px', color: 'white' }}>Selección Personal de Juan: Las Mejores Ofertas de Amazon 2026</p>
       </header>
 
       <div style={{ maxWidth: '1100px', margin: '40px auto', padding: '0 20px', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '30px' }}>
