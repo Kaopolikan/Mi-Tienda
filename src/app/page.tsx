@@ -63,6 +63,46 @@ export default function Home() {
       url: "https://www.amazon.com/dp/B0GG8L9ZHW", 
       img: "https://sc02.alicdn.com/kf/Aac53c2b7333e4439bfedf94549aa085b0.png",
       details: "Máxima potencia y autonomía. Batería gigante de 48,000mAh (hasta 120h de uso). Incluye luz LED, control remoto y función de carga para móviles. El rey del camping."
+    },
+    { 
+      id: 9, 
+      title: "eAhora Romeo Pro Electric Bike", 
+      price: "1499.00", 
+      url: "https://www.amazon.com/dp/B0G1SY2GW7", 
+      img: "https://s.alicdn.com/@sc04/kf/H17be97f897d14d469ba3eb62e879d3b3p.jpg",
+      details: "La e-bike más viral de TikTok 2026. Motor de 1600W (pico), velocidad de 34Mph y diseño robusto para cualquier terreno. Rendimiento extremo y confort."
+    },
+    { 
+      id: 10, 
+      title: "EcoFlow DELTA Pro 3", 
+      price: "2599.00", 
+      url: "https://www.amazon.com/dp/B0D14FMFZD", 
+      img: "https://s.alicdn.com/@sc04/kf/H51a6949295174ed9909357eb4e12a580p.png",
+      details: "Estación de energía líder en el mercado. Batería LFP de 4096Wh ampliable hasta 48kWh. El respaldo definitivo para tu hogar ante cualquier emergencia."
+    },
+    { 
+      id: 11, 
+      title: "Bombillas LED Emergencia Brightown", 
+      price: "29.99", 
+      url: "https://www.amazon.com/dp/B0FK9SSYDF", 
+      img: "https://s.alicdn.com/@sc04/kf/H83d00095457443f18d28f0f28d8704b5v.jpg",
+      details: "Pack de 4 bombillas inteligentes. Se recargan con uso normal y se encienden automáticamente cuando se corta la luz. ¡No vuelvas a quedarte a oscuras!"
+    },
+    { 
+      id: 12, 
+      title: "Generador Solar GRECELL 2400W", 
+      price: "799.99", 
+      url: "https://www.amazon.com/dp/B0CD7WN2WL", 
+      img: "https://s.alicdn.com/@sc04/kf/Hcd05cb2db6374e7db0cf5ddb51bde11eX.jpg",
+      details: "Potencia masiva de 2400W y batería LiFePO4 de 1843Wh. Soporta 12 dispositivos simultáneamente. Carga rápida en solo 2 horas para máxima autonomía."
+    },
+    { 
+      id: 13, 
+      title: "Jackery Explorer 500", 
+      price: "449.00", 
+      url: "https://www.amazon.com/dp/B07SM5HBK1", 
+      img: "https://m.media-amazon.com/images/I/41-OxBycfjL._SL75_.jpg",
+      details: "La marca más confiable en estaciones portátiles. Compacta, ligera y perfecta para camping o respaldo básico de emergencia. Calidad garantizada."
     }
   ];
 
@@ -110,6 +150,4 @@ export default function Home() {
       </footer>
     </div>
   );
-}
-;
 }
