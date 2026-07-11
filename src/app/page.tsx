@@ -103,6 +103,46 @@ export default function Home() {
       url: "https://www.amazon.com/dp/B07SM5HBK1", 
       img: "https://m.media-amazon.com/images/I/41-OxBycfjL._SL75_.jpg",
       details: "La marca más confiable en estaciones portátiles. Compacta, ligera y perfecta para camping o respaldo básico de emergencia. Calidad garantizada."
+    },
+    { 
+      id: 14, 
+      title: "Limpiador de Vapor Kiato", 
+      price: "49.99", 
+      url: "https://www.amazon.com/dp/B09V1H14W8", 
+      img: "https://m.media-amazon.com/images/I/41fkyHlMd8L._SL75_.jpg",
+      details: "Potente limpiador a presión con kit de 10 accesorios. Ideal para limpieza profunda sin químicos. El gadget favorito de los videos virales de limpieza (ASMR)."
+    },
+    { 
+      id: 15, 
+      title: "Lámpara Champiñón Vintage", 
+      price: "32.99", 
+      url: "https://www.amazon.com/dp/B09TSHZZ33", 
+      img: "https://m.media-amazon.com/images/I/41nUt-l-XoL._SL75_.jpg",
+      details: "Lámpara de cristal soplado a mano con diseño retro de los 70. Una pieza de decoración imprescindible para darle ese toque estético y acogedor a tu habitación."
+    },
+    { 
+      id: 16, 
+      title: "Proyector Galaxia Rossetta", 
+      price: "39.99", 
+      url: "https://www.amazon.com/dp/B099ZRCG27", 
+      img: "https://m.media-amazon.com/images/I/31YqWYDXx4L._SL75_.jpg",
+      details: "Transforma tu cuarto en una galaxia. Incluye máquina de ruido blanco, altavoz Bluetooth y sincronización con música. Perfecto para relajación o fiestas."
+    },
+    { 
+      id: 17, 
+      title: "Organizadores de Nevera Hoojo", 
+      price: "19.99", 
+      url: "https://www.amazon.com/dp/B08GRLG9X7", 
+      img: "https://m.media-amazon.com/images/I/41MjE+mVH4L._SL75_.jpg",
+      details: "Pack de contenedores apilables y transparentes. Optimiza el espacio y mantén tu comida organizada. El secreto detrás de los videos virales de 'Restock' en TikTok."
+    },
+    { 
+      id: 18, 
+      title: "Ventilador de Cuello JISULIFE", 
+      price: "31.99", 
+      url: "https://www.amazon.com/dp/B089119967", 
+      img: "https://m.media-amazon.com/images/I/31SKNpsTPkL._SL75_.jpg",
+      details: "Manos libres y sin aspas. Batería de 4000mAh para hasta 16 horas de frescura. El accesorio esencial para combatir el calor este verano con estilo."
     }
   ];
 
