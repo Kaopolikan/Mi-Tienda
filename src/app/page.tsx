@@ -55,6 +55,14 @@ export default function Home() {
       url: "https://amzn.to/4vvaWZ9", 
       img: "https://sc04.alicdn.com/kf/Ab53717efe6644f2e849cdf5707277874I.jpg",
       details: "Pica ajo, jengibre y verduras en segundos con solo presionar un botón. Recargable por USB y portátil, ideal para mantener tus manos libres de olores."
+    },
+    { 
+      id: 8, 
+      title: "Ventilador Camping FRIZCOL 48k", 
+      price: "49.98", 
+      url: "https://www.amazon.com/dp/B0GG8L9ZHW", 
+      img: "https://sc02.alicdn.com/kf/Aac53c2b7333e4439bfedf94549aa085b0.png",
+      details: "Máxima potencia y autonomía. Batería gigante de 48,000mAh (hasta 120h de uso). Incluye luz LED, control remoto y función de carga para móviles. El rey del camping."
     }
   ];
 
