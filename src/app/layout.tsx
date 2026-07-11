@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Top Gadgets 2026 | Tu Guía de Compras Inteligente',
-  description: 'Descubre los productos más vendidos y recomendados de Amazon analizados por expertos.',
+  title: 'KAOPOLIKAN VIP | Ofertas Virales de Amazon 2026',
+  description: 'Selección Maestra de Juan: E-Bikes, Energía Solar y los Gadgets más virales de TikTok al mejor precio. ¡No te pierdas las ofertas del día!',
 }
 
 export default function RootLayout({
