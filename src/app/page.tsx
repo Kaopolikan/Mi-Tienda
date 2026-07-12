@@ -171,9 +171,9 @@ export default function Home() {
     { 
       id: 22, 
       title: "Purificador de Aire para Mascotas", 
-      price: "45.00", 
+      price: "39.99", 
       url: "https://www.amazon.com/dp/B0C4DHL8YK", 
-      img: "https://sc04.alicdn.com/kf/A42c403362024467098e9863765107e32l.jpg",
+      img: "https://sc04.alicdn.com/kf/A3963fdc8a508434aa761b8b3a07dd9b23.jpg",
       details: "Especialmente diseñado para hogares con perros y gatos. Elimina olores, pelos y alérgenos con filtro HEPA. Silencioso y eficiente para un aire puro."
     },
     { 
