@@ -179,7 +179,7 @@ export default function Home() {
     { 
       id: 23, 
       title: "Azulejos Magnéticos AFUNX (102 pcs)", 
-      price: "26.99", 
+      price: "19.99", 
       url: "https://www.amazon.com/dp/B0CSYPVSY4", 
       img: "https://sc04.alicdn.com/kf/A2d779412c68e43a19246cc410345c0e2Y.jpg",
       details: "Set de 102 piezas de bloques de construcción magnéticos 3D transparentes. Inspira la creatividad más allá de la imaginación. El juguete educativo STEM favorito de Amazon 2026 para niños."
