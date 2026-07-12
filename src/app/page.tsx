@@ -153,12 +153,12 @@ export default function Home() {
       details: "Compacta, ligera y plegable. Motor de 350W y velocidad de hasta 20MPH. Perfecta para trayectos urbanos y fácil de guardar en cualquier rincón o maletero."
     },
     { 
-      id: 20, 
-      title: "E-Bike Commuter 1200W Pro", 
-      price: "139.99", 
-      url: "https://www.amazon.com/dp/B0H1CH2CTS", 
-      img: "https://sc04.alicdn.com/kf/A89915a6383ef44b3b27ff970c378b766i.jpg",
-      details: "Motor de 1200W (pico), velocidad de 20-28MPH y certificación de seguridad UL 2849. Batería impermeable extraíble y frenos de disco duales. ¡La mejor oferta del 2026!"
+      id: 23, 
+      title: "Juego de Expansión Magnética AFUNX", 
+      price: "14.99", 
+      url: "https://www.amazon.com/dp/B0FSKT2PT9", 
+      img: "https://sc04.alicdn.com/kf/A3c8eb941f63b44f8baa287e518ac2e05Z.jpg",
+      details: "Bloques de construcción magnéticos STEM para niños. Juego creativo, seguro y duradero. Ideal para aprender jugando y expandir la imaginación con pistas y figuras 3D."
     },
     { 
       id: 21, 
