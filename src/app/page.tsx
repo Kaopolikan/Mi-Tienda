@@ -162,11 +162,11 @@ export default function Home() {
     },
     { 
       id: 21, 
-      title: "Botella de Agua con Hidrógeno 2026", 
+      title: "Botella de Agua de Hidrógeno 2026", 
       price: "20.99", 
       url: "https://www.amazon.com/dp/B0GGGXG2DV", 
-      img: "https://sc04.alicdn.com/kf/H719543e9444b4da386299b66a87754d9q.jpg",
-      details: "Generador de hidrógeno ultra rápido en 3 minutos. Mejora tu bienestar diario con agua antioxidante. El gadget de salud más viral de TikTok este mes."
+      img: "https://sc04.alicdn.com/kf/A21564d6566cf4093a2c28d8339149813o.jpg",
+      details: "Generador de agua de hidrógeno mejorado 1600-2000 PPB. Tecnología Hydroh que mejora el agua en solo 3 minutos. Ideal para el hogar, oficina y viajes. Hidratación antioxidante diaria."
     },
     { 
       id: 22, 
