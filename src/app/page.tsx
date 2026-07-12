@@ -163,7 +163,7 @@ export default function Home() {
     { 
       id: 21, 
       title: "Botella de Agua de Hidrógeno 2026", 
-      price: "39.99", 
+      price: "20.99", 
       url: "https://www.amazon.com/dp/B0GGGXG2DV", 
       img: "https://sc04.alicdn.com/kf/A21564d6566cf4093a2c28d8339149813o.jpg",
       details: "Generador de agua de hidrógeno mejorado 1600-2000 PPB. Tecnología Hydroh que mejora el agua en solo 3 minutos. Ideal para el hogar, oficina y viajes. Hidratación antioxidante diaria."
