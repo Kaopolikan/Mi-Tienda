@@ -153,6 +153,30 @@ export default function Home() {
       details: "Compacta, ligera y plegable. Motor de 350W y velocidad de hasta 20MPH. Perfecta para trayectos urbanos y fácil de guardar en cualquier rincón o maletero."
     },
     { 
+      id: 20, 
+      title: "E-Bike Commuter 1200W Pro", 
+      price: "139.99", 
+      url: "https://www.amazon.com/dp/B0H1CH2CTS", 
+      img: "https://sc04.alicdn.com/kf/A89915a6383ef44b3b27ff970c378b766i.jpg",
+      details: "Motor de 1200W (pico), velocidad de 20-28MPH y certificación de seguridad UL 2849. Batería impermeable extraíble y frenos de disco duales. ¡La mejor oferta del 2026!"
+    },
+    { 
+      id: 21, 
+      title: "Botella de Agua de Hidrógeno 2026", 
+      price: "39.99", 
+      url: "https://www.amazon.com/dp/B0GGGXG2DV", 
+      img: "https://sc04.alicdn.com/kf/A21564d6566cf4093a2c28d8339149813o.jpg",
+      details: "Generador de agua de hidrógeno mejorado 1600-2000 PPB. Tecnología Hydroh que mejora el agua en solo 3 minutos. Ideal para el hogar, oficina y viajes. Hidratación antioxidante diaria."
+    },
+    { 
+      id: 22, 
+      title: "Purificador de Aire para Mascotas", 
+      price: "39.99", 
+      url: "https://www.amazon.com/dp/B0C4DHL8YK", 
+      img: "https://sc04.alicdn.com/kf/A3963fdc8a508434aa761b8b3a07dd9b23.jpg",
+      details: "Especialmente diseñado para hogares con perros y gatos. Elimina olores, pelos y alérgenos con filtro HEPA. Silencioso y eficiente para un aire puro."
+    },
+    { 
       id: 23, 
       title: "Azulejos Magnéticos AFUNX (102 pcs)", 
       price: "26.99", 
