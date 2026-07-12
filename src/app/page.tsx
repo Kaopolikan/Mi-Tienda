@@ -154,35 +154,11 @@ export default function Home() {
     },
     { 
       id: 23, 
-      title: "Juego de Expansión Magnética AFUNX", 
-      price: "14.99", 
+      title: "Azulejos Magnéticos AFUNX (102 pcs)", 
+      price: "26.99", 
       url: "https://www.amazon.com/dp/B0FSKT2PT9", 
-      img: "https://sc04.alicdn.com/kf/A3c8eb941f63b44f8baa287e518ac2e05Z.jpg",
-      details: "Bloques de construcción magnéticos STEM para niños. Juego creativo, seguro y duradero. Ideal para aprender jugando y expandir la imaginación con pistas y figuras 3D."
-    },
-    { 
-      id: 21, 
-      title: "Botella de Agua de Hidrógeno 2026", 
-      price: "20.99", 
-      url: "https://www.amazon.com/dp/B0GGGXG2DV", 
-      img: "https://sc04.alicdn.com/kf/A21564d6566cf4093a2c28d8339149813o.jpg",
-      details: "Generador de agua de hidrógeno mejorado 1600-2000 PPB. Tecnología Hydroh que mejora el agua en solo 3 minutos. Ideal para el hogar, oficina y viajes. Hidratación antioxidante diaria."
-    },
-    { 
-      id: 22, 
-      title: "Purificador de Aire para Mascotas", 
-      price: "39.99", 
-      url: "https://www.amazon.com/dp/B0C4DHL8YK", 
-      img: "https://sc04.alicdn.com/kf/A3963fdc8a508434aa761b8b3a07dd9b23.jpg",
-      details: "Especialmente diseñado para hogares con perros y gatos. Elimina olores, pelos y alérgenos con filtro HEPA. Silencioso y eficiente para un aire puro."
-    },
-    { 
-      id: 23, 
-      title: "Bloques de Construcción Magnéticos", 
-      price: "23.99", 
-      url: "https://www.amazon.com/dp/B0FSKT2PT9", 
-      img: "https://sc04.alicdn.com/kf/H0009c916538f45a0b73c914e9166a9d9P.jpg",
-      details: "Set de 102 piezas para crear figuras 3D. Fomenta la creatividad y el aprendizaje STEM. Diversión garantizada para niños y adultos. ¡Éxito en ventas!"
+      img: "https://sc04.alicdn.com/kf/A2d779412c68e43a19246cc410345c0e2Y.jpg",
+      details: "Set de 102 piezas de bloques de construcción magnéticos 3D transparentes. Inspira la creatividad más allá de la imaginación. El juguete educativo STEM favorito de Amazon 2026 para niños."
     }
   ];
 
