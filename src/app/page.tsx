@@ -183,6 +183,14 @@ export default function Home() {
       url: "https://www.amazon.com/dp/B0FSKT2PT9", 
       img: "https://sc04.alicdn.com/kf/A2d779412c68e43a19246cc410345c0e2Y.jpg",
       details: "Set de 102 piezas de bloques de construcción magnéticos 3D transparentes. Inspira la creatividad más allá de la imaginación. El juguete educativo STEM favorito de Amazon 2026 para niños."
+    },
+    { 
+      id: 24, 
+      title: "Botella de Agua de Hidrógeno Pro", 
+      price: "13.99", 
+      url: "https://www.amazon.com/dp/B0F3PKL361", 
+      img: "https://sc04.alicdn.com/kf/A5a1ade73f0e2480b9fefd53a4d24a99al.jpg",
+      details: "Máquina ionizadora portátil con tecnología SPE y PEM. Genera agua rica en hidrógeno en solo 3 minutos. Diseño de vidrio recargable, ideal para viajes y uso diario. ¡Oferta Flash!"
     }
   ];
 
