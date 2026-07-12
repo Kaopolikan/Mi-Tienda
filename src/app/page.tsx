@@ -159,6 +159,30 @@ export default function Home() {
       url: "https://www.amazon.com/dp/B0H1CH2CTS", 
       img: "https://sc04.alicdn.com/kf/A89915a6383ef44b3b27ff970c378b766i.jpg",
       details: "Motor de 1200W (pico), velocidad de 20-28MPH y certificación de seguridad UL 2849. Batería impermeable extraíble y frenos de disco duales. ¡La mejor oferta del 2026!"
+    },
+    { 
+      id: 21, 
+      title: "Botella de Agua con Hidrógeno 2026", 
+      price: "20.99", 
+      url: "https://www.amazon.com/dp/B0GGGXG2DV", 
+      img: "https://sc04.alicdn.com/kf/H719543e9444b4da386299b66a87754d9q.jpg",
+      details: "Generador de hidrógeno ultra rápido en 3 minutos. Mejora tu bienestar diario con agua antioxidante. El gadget de salud más viral de TikTok este mes."
+    },
+    { 
+      id: 22, 
+      title: "Purificador de Aire para Mascotas", 
+      price: "45.00", 
+      url: "https://www.amazon.com/dp/B0C4DHL8YK", 
+      img: "https://sc04.alicdn.com/kf/A42c403362024467098e9863765107e32l.jpg",
+      details: "Especialmente diseñado para hogares con perros y gatos. Elimina olores, pelos y alérgenos con filtro HEPA. Silencioso y eficiente para un aire puro."
+    },
+    { 
+      id: 23, 
+      title: "Bloques de Construcción Magnéticos", 
+      price: "23.99", 
+      url: "https://www.amazon.com/dp/B0FSKT2PT9", 
+      img: "https://sc04.alicdn.com/kf/H0009c916538f45a0b73c914e9166a9d9P.jpg",
+      details: "Set de 102 piezas para crear figuras 3D. Fomenta la creatividad y el aprendizaje STEM. Diversión garantizada para niños y adultos. ¡Éxito en ventas!"
     }
   ];
 
